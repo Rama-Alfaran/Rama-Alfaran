@@ -21,3 +21,12 @@
 📫 **Let’s connect!**
 - LinkedIn: [Rama Alfaran](https://www.linkedin.com/in/rama-alfaran-669306237)
 - Email: ramaalfaran82@gmail.com
+#AI
+
+#DataScience
+
+#Chatbots
+
+#Arduino
+
+#PublicSpeaking
