@@ -46,7 +46,7 @@
 ## 📫 Let’s Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/rama-alfaran-669306237  
-- 📧 Email: ramaalfaran82@gmail.com  
+- 📧 Email: alfaranrama@gmail.com  
 
 ---
 
