@@ -1,32 +1,53 @@
-
 # 👋 Hi, I’m Rama Alfaran!
 
-🎓 I’m a Data Science and Artificial Intelligence student at Zarqa University with a passion for building AI-powered applications and teaching technology through workshops.
+🎓 Data Science & Artificial Intelligence Graduate passionate about building intelligent systems and real-world AI applications.
 
-🧠 My work includes:
-- 🤖 **AI Chatbots** with voice, avatars, and historical personalities (Graduation Project)
-- 🧬 **Medical AI** for tumor detection (Hackathon)
-- ⚙️ **Arduino & Robotics** trainer and competitor
-- 📢 **Public Speaker** in tech & soft skills events
+---
 
-💡 I enjoy blending tech and education to make complex topics simple and engaging!
+## 🧠 What I Do
 
-## 🔧 Technologies I Use
+- 🤖 Develop AI-powered applications, including multimodal chatbots with voice, avatars, and historical simulations  
+- 🧬 Build medical AI models for tumor detection and healthcare innovation  
+- ⚙️ Design and deliver hands-on training in Arduino, robotics, and embedded systems  
+- 📢 Speak at technical and career events, simplifying complex AI concepts for diverse audiences  
 
-- **Languages:** Python, Java, Arduino
-- **AI/ML:** TensorFlow, Keras, Scikit-learn, RAG, Gemini API
-- **Web:** HTML, CSS, JavaScript
-- **Tools:** Git, Jupyter, Google Colab
+---
 
-📫 **Let’s connect!**
-- LinkedIn: [Rama Alfaran](https://www.linkedin.com/in/rama-alfaran-669306237)
-- Email: ramaalfaran82@gmail.com
-#AI
+## 💡 Focus Areas
 
-#DataScience
+- Artificial Intelligence & Machine Learning  
+- Natural Language Processing (NLP)  
+- RAG Systems & LLM Applications  
+- Data Analytics & Visualization  
+- Educational Technology  
 
-#Chatbots
+---
 
-#Arduino
+## 🔧 Tech Stack
 
-#PublicSpeaking
+**Languages:** Python, Java, Arduino  
+**AI/ML:** TensorFlow, Keras, Scikit-learn, RAG, Gemini API  
+**Web:** HTML, CSS, JavaScript  
+**Tools:** Git, GitHub, Jupyter, Google Colab  
+
+---
+
+## 🚀 Featured Projects
+
+- 🤖 AI Chatbot – Historical Figures Simulation  
+- 🧬 Tumor Detection System (Deep Learning)  
+- 🎓 Education Platform (Laravel)  
+- 📊 Analytics Dashboard & Web Scraping  
+
+👉 Explore my repositories to see full implementations, code, and results.
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/rama-alfaran-669306237  
+- 📧 Email: ramaalfaran82@gmail.com  
+
+---
+
+⭐ Always open to collaboration, internships, and AI opportunities.
