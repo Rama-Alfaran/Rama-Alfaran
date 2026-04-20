@@ -50,4 +50,3 @@
 
 ---
 
-⭐ Always open to collaboration, internships, and AI opportunities.
